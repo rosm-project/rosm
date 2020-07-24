@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "rosm_mvt",
+    "rosm_pbf_reader",
+    "rosm_pbf_sqlite_dumper"
+]
