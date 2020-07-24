@@ -4,3 +4,6 @@
 [submodule "rosm_mvt"]
 	path = rosm_mvt
 	url = https://github.com/yzsolt/rosm_mvt
+[submodule "rosm_pbf_sqlite_dumper"]
+	path = rosm_pbf_sqlite_dumper
+	url = https://github.com/yzsolt/rosm_pbf_sqlite_dumper
