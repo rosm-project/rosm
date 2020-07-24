@@ -1,3 +1,6 @@
 [submodule "rosm_pbf_reader"]
 	path = rosm_pbf_reader
 	url = https://github.com/yzsolt/rosm_pbf_reader
+[submodule "rosm_mvt"]
+	path = rosm_mvt
+	url = https://github.com/yzsolt/rosm_mvt
