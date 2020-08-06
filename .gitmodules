@@ -10,3 +10,6 @@
 [submodule "rosm_geostats"]
 	path = rosm_geostats
 	url = https://github.com/yzsolt/rosm_geostats
+[submodule "rosm_mbtiles"]
+	path = rosm_mbtiles
+	url = https://github.com/yzsolt/rosm_mbtiles
